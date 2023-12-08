@@ -2,7 +2,7 @@ module vis
 using GenieFramework, PlotlyBase, StipplePlotly
 @genietools
 
-trace1 = scatter(; x=1:4, y=[0, 2, 3, 5], mode = "lines")
+trace1 = scatter(; x=1:4, y=[0, 2, 3, 5], mode = "lines", line=attr(color="blue"))
 trace2 = scatter(; x=1:4, y=[3, 5, 1, 7], mode = "lines", line=attr(color="red"))
 
 @app begin
