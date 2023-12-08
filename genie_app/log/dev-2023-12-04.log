@@ -1,0 +1,495 @@
+┌ Info: 2023-12-04 11:18:00 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server C:\Users\awwojtas\.julia\packages\Genie\UTv5H\src\Server.jl:166
+┌ Info: 2023-12-04 11:18:03 Watching ["C:\\Users\\awwojtas\\Desktop\\mena_app"]
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:19
+┌ Info: 2023-12-04 11:18:04 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers C:\Users\awwojtas\.julia\packages\HTTP\SN7VW\src\Servers.jl:367
+┌ Info: 2023-12-04 11:22:08 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-12-04 11:22:23 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-12-04 11:26:21 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-12-04 11:27:22 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-12-04 11:28:31 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-12-04 11:29:26 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-12-04 11:30:46 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-12-04 11:31:02 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-12-04 11:37:01 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-12-04 11:38:23 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-12-04 11:39:03 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-12-04 11:39:59 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers C:\Users\awwojtas\.julia\packages\HTTP\SN7VW\src\Servers.jl:394
+┌ Info: 2023-12-04 11:41:14 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server C:\Users\awwojtas\.julia\packages\Genie\UTv5H\src\Server.jl:166
+┌ Info: 2023-12-04 11:41:14 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers C:\Users\awwojtas\.julia\packages\HTTP\SN7VW\src\Servers.jl:367
+┌ Info: 2023-12-04 11:41:48 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-12-04 11:42:07 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-12-04 11:42:25 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-12-04 11:42:47 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-12-04 11:43:20 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-12-04 11:43:30 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-12-04 11:46:17 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-12-04 11:47:20 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-12-04 11:48:08 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-12-04 11:48:24 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-12-04 12:24:23 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers C:\Users\awwojtas\.julia\packages\HTTP\SN7VW\src\Servers.jl:394
+┌ Info: 2023-12-04 12:24:46 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-12-04 13:01:29 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server C:\Users\awwojtas\.julia\packages\Genie\UTv5H\src\Server.jl:166
+┌ Info: 2023-12-04 13:01:31 Watching ["C:\\Users\\awwojtas\\Desktop\\mena_app"]
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:19
+┌ Info: 2023-12-04 13:01:32 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers C:\Users\awwojtas\.julia\packages\HTTP\SN7VW\src\Servers.jl:367
+┌ Info: 2023-12-04 13:03:13 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-12-04 13:03:38 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-12-04 13:04:05 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-12-04 13:04:14 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-12-04 13:04:31 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-12-04 13:04:43 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-12-04 13:05:00 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-12-04 13:05:09 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-12-04 13:06:59 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-12-04 13:07:29 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-12-04 13:08:03 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-12-04 13:08:34 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-12-04 13:10:21 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-12-04 13:11:12 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-12-04 13:11:25 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-12-04 13:11:52 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-12-04 13:12:23 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-12-04 13:14:14 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-12-04 13:14:23 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-12-04 13:15:16 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-12-04 13:15:24 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-12-04 13:15:30 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-12-04 13:15:48 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-12-04 13:16:14 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-12-04 13:16:39 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-12-04 13:16:48 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-12-04 13:17:16 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-12-04 13:17:40 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-12-04 13:17:57 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-12-04 13:18:28 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-12-04 13:18:59 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-12-04 13:22:43 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-12-04 13:22:58 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-12-04 13:23:33 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-12-04 13:25:22 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-12-04 13:25:35 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-12-04 13:25:54 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-12-04 13:26:41 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-12-04 13:27:14 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-12-04 13:27:50 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-12-04 13:28:34 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-12-04 13:29:15 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Error: 2023-12-04 13:29:16 LoadError: syntax: missing comma or ) in argument list
+│ Stacktrace:
+│   [1] top-level scope
+│     @ C:\Users\awwojtas\AppData\Local\Temp\jl_genie_build_FPcnYl\GenieViews\0dc5da90ea465674873897cd99a5ba8046814734.jl:19
+│   [2] include
+│     @ .\Base.jl:419 [inlined]
+│   [3] get_template(path::String; partial::Bool, context::Module, vars::Base.Pairs{Symbol, Main.App.var"##Main.App_ReactiveModel!#331", Tuple{Symbol}, NamedTuple{(:model,), Tuple{Main.App.var"##Main.App_ReactiveModel!#331"}}})
+│     @ Genie.Renderer.Html C:\Users\awwojtas\.julia\packages\Genie\UTv5H\src\renderers\Html.jl:360
+│   [4] render(viewfile::FilePathsBase.WindowsPath; layout::String, context::Module, vars::Base.Pairs{Symbol, Main.App.var"##Main.App_ReactiveModel!#331", Tuple{Symbol}, NamedTuple{(:model,), Tuple{Main.App.var"##Main.App_ReactiveModel!#331"}}})
+│     @ Genie.Renderer.Html C:\Users\awwojtas\.julia\packages\Genie\UTv5H\src\renderers\Html.jl:438
+│   [5] render(::Type{MIME{Symbol("text/html")}}, viewfile::FilePathsBase.WindowsPath; layout::String, context::Module, vars::Base.Pairs{Symbol, Main.App.var"##Main.App_ReactiveModel!#331", Tuple{Symbol}, NamedTuple{(:model,), Tuple{Main.App.var"##Main.App_ReactiveModel!#331"}}})
+│     @ Genie.Renderer.Html C:\Users\awwojtas\.julia\packages\Genie\UTv5H\src\renderers\Html.jl:486
+│   [6] #html#37
+│     @ C:\Users\awwojtas\.julia\packages\Genie\UTv5H\src\renderers\Html.jl:642 [inlined]
+│   [7] (::Stipple.Pages.var"#5#6"{FilePathsBase.WindowsPath, Stipple.ReactiveTools.var"#32#34"{Module, Vector{Any}}, String, Base.Pairs{Symbol, Union{}, Tuple{}, NamedTuple{(), Tuple{}}}})()
+│     @ Stipple.Pages C:\Users\awwojtas\.julia\packages\Stipple\nxNDc\src\Pages.jl:68
+│   [8] run_route(r::Genie.Router.Route)
+│     @ Genie.Router C:\Users\awwojtas\.julia\packages\Genie\UTv5H\src\Router.jl:537
+│   [9] route_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Router C:\Users\awwojtas\.julia\packages\Genie\UTv5H\src\Router.jl:173
+│  [10] handle_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server C:\Users\awwojtas\.julia\packages\Genie\UTv5H\src\Server.jl:283
+│  [11] (::Genie.Server.var"#35#36"{HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}}, HTTP.Messages.Request, HTTP.Messages.Response})()
+│     @ Genie.Server C:\Users\awwojtas\AppData\Local\Programs\Julia-1.8.5\share\julia\stdlib\v1.8\Distributed\src\macros.jl:123
+│  [12] #invokelatest#2
+│     @ .\essentials.jl:729 [inlined]
+│  [13] invokelatest
+│     @ .\essentials.jl:726 [inlined]
+│  [14] #153
+│     @ C:\Users\awwojtas\AppData\Local\Programs\Julia-1.8.5\share\julia\stdlib\v1.8\Distributed\src\remotecall.jl:425 [inlined]
+│  [15] run_work_thunk(thunk::Distributed.var"#153#154"{Genie.Server.var"#35#36"{HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}}, HTTP.Messages.Request, HTTP.Messages.Response}, Tuple{}, Base.Pairs{Symbol, Union{}, Tuple{}, NamedTuple{(), Tuple{}}}}, print_error::Bool)
+│     @ Distributed C:\Users\awwojtas\AppData\Local\Programs\Julia-1.8.5\share\julia\stdlib\v1.8\Distributed\src\process_messages.jl:70
+│  [16] #remotecall_fetch#158
+│     @ C:\Users\awwojtas\AppData\Local\Programs\Julia-1.8.5\share\julia\stdlib\v1.8\Distributed\src\remotecall.jl:450 [inlined]
+│  [17] remotecall_fetch
+│     @ C:\Users\awwojtas\AppData\Local\Programs\Julia-1.8.5\share\julia\stdlib\v1.8\Distributed\src\remotecall.jl:449 [inlined]
+│  [18] #remotecall_fetch#162
+│     @ C:\Users\awwojtas\AppData\Local\Programs\Julia-1.8.5\share\julia\stdlib\v1.8\Distributed\src\remotecall.jl:492 [inlined]
+│  [19] remotecall_fetch
+│     @ C:\Users\awwojtas\AppData\Local\Programs\Julia-1.8.5\share\julia\stdlib\v1.8\Distributed\src\remotecall.jl:492 [inlined]
+│  [20] setup_http_listener(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server C:\Users\awwojtas\.julia\packages\Genie\UTv5H\src\Server.jl:327
+│  [21] (::Genie.Server.var"#32#33"{typeof(Genie.Server.setup_http_listener)})(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server C:\Users\awwojtas\.julia\packages\Genie\UTv5H\src\Server.jl:296
+│  [22] setup_http_streamer(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server C:\Users\awwojtas\.julia\packages\Genie\UTv5H\src\Server.jl:316
+│  [23] (::Genie.Server.var"#7#15")(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server C:\Users\awwojtas\.julia\packages\Genie\UTv5H\src\Server.jl:123
+│  [24] #invokelatest#2
+│     @ .\essentials.jl:729 [inlined]
+│  [25] invokelatest
+│     @ .\essentials.jl:726 [inlined]
+│  [26] handle_connection(f::Function, c::HTTP.Connections.Connection{Sockets.TCPSocket}, listener::HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, readtimeout::Int64, access_log::Nothing)
+│     @ HTTP.Servers C:\Users\awwojtas\.julia\packages\HTTP\SN7VW\src\Servers.jl:450
+│  [27] (::HTTP.Servers.var"#16#17"{Genie.Server.var"#7#15", HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, Set{HTTP.Connections.Connection}, Int64, Nothing, Base.Semaphore, HTTP.Connections.Connection{Sockets.TCPSocket}})()
+│     @ HTTP.Servers .\task.jl:484
+│ in expression starting at C:\Users\awwojtas\AppData\Local\Temp\jl_genie_build_FPcnYl\GenieViews\0dc5da90ea465674873897cd99a5ba8046814734.jl:19
+│ 
+└ @ Genie.Server C:\Users\awwojtas\.julia\packages\Genie\UTv5H\src\Server.jl:339
+┌ Info: 2023-12-04 13:29:33 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-12-04 13:29:47 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-12-04 13:30:13 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-12-04 13:30:33 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-12-04 13:33:19 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-12-04 13:33:29 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-12-04 13:33:35 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-12-04 13:33:56 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-12-04 13:34:21 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-12-04 13:34:42 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-12-04 13:34:50 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-12-04 13:36:54 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-12-04 13:37:09 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-12-04 13:37:20 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-12-04 13:37:56 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-12-04 13:38:36 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-12-04 13:40:27 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-12-04 13:40:45 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-12-04 13:41:05 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-12-04 13:41:34 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-12-04 13:42:21 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-12-04 13:43:34 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-12-04 13:44:17 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-12-04 13:44:33 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-12-04 13:44:51 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-12-04 13:45:08 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-12-04 13:45:38 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-12-04 13:45:53 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-12-04 13:47:22 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-12-04 14:03:45 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-12-04 14:04:35 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-12-04 14:05:01 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-12-04 14:05:32 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-12-04 14:08:16 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-12-04 14:08:27 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-12-04 14:08:45 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-12-04 14:09:32 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Error: 2023-12-04 14:09:33 MethodError: no method matching bignumber(::ParsedHTMLString, ::Symbol; arrow=:first_arr, color=:first_col)
+│ Closest candidates are:
+│   bignumber(!Matched::Union{String, Symbol}, ::Union{Nothing, Number, String, Symbol}, !Matched::Any...; kwargs...) at C:\Users\awwojtas\.julia\packages\StippleUI\ktFv3\src\BigNumbers.jl:22
+│ Stacktrace:
+│   [1] func_e871bf1c248960456dcd87f566c83f52a81e1a21(; context::Module, model::Main.App.var"##Main.App_ReactiveModel!#331")
+│     @ Main.App C:\Users\awwojtas\AppData\Local\Temp\jl_genie_build_FPcnYl\GenieViews\0dc5da90ea465674873897cd99a5ba8046814734.jl:5
+│   [2] func_e871bf1c248960456dcd87f566c83f52a81e1a21()
+│     @ Main.App C:\Users\awwojtas\AppData\Local\Temp\jl_genie_build_FPcnYl\GenieViews\0dc5da90ea465674873897cd99a5ba8046814734.jl:3
+│   [3] (::Main.App.var"#40#53"{Main.App.var"##Main.App_ReactiveModel!#331"})()
+│     @ Main.App C:\Users\awwojtas\AppData\Local\Temp\jl_genie_build_FPcnYl\GenieViews\ec53ed69dbb26f5e0b8ec98fbcc9a3e71eab6538.jl:55
+│   [4] #invokelatest#2
+│     @ .\essentials.jl:729 [inlined]
+│   [5] invokelatest
+│     @ .\essentials.jl:726 [inlined]
+│   [6] normal_element(f::Function, elem::String, args::Vector{Any}, attrs::Vector{Pair{Symbol, Any}})
+│     @ Genie.Renderer.Html C:\Users\awwojtas\.julia\packages\Genie\UTv5H\src\renderers\Html.jl:137
+│   [7] div(::Function; attrs::Base.Pairs{Symbol, String, Tuple{Symbol, Symbol}, NamedTuple{(:class, :htmlsourceindent), Tuple{String, String}}})
+│     @ Genie.Renderer.Html .\none:2
+│   [8] (::Main.App.var"#39#52"{Main.App.var"##Main.App_ReactiveModel!#331"})()
+│     @ Main.App C:\Users\awwojtas\AppData\Local\Temp\jl_genie_build_FPcnYl\GenieViews\ec53ed69dbb26f5e0b8ec98fbcc9a3e71eab6538.jl:54
+│   [9] #invokelatest#2
+│     @ .\essentials.jl:729 [inlined]
+│  [10] invokelatest
+│     @ .\essentials.jl:726 [inlined]
+│  [11] normal_element(f::Function, elem::String, args::Vector{Any}, attrs::Vector{Pair{Symbol, Any}})
+│     @ Genie.Renderer.Html C:\Users\awwojtas\.julia\packages\Genie\UTv5H\src\renderers\Html.jl:137
+│  [12] div(::Function; attrs::Base.Pairs{Symbol, String, Tuple{Symbol, Symbol}, NamedTuple{(:class, :htmlsourceindent), Tuple{String, String}}})
+│     @ Genie.Renderer.Html .\none:2
+│  [13] (::Main.App.var"#38#51"{Main.App.var"##Main.App_ReactiveModel!#331"})()
+│     @ Main.App C:\Users\awwojtas\AppData\Local\Temp\jl_genie_build_FPcnYl\GenieViews\ec53ed69dbb26f5e0b8ec98fbcc9a3e71eab6538.jl:53
+│  [14] #invokelatest#2
+│     @ .\essentials.jl:729 [inlined]
+│  [15] invokelatest
+│     @ .\essentials.jl:726 [inlined]
+│  [16] normal_element(f::Function, elem::String, args::Vector{Any}, attrs::Vector{Pair{Symbol, Any}})
+│     @ Genie.Renderer.Html C:\Users\awwojtas\.julia\packages\Genie\UTv5H\src\renderers\Html.jl:137
+│  [17] div(::Function; attrs::Base.Pairs{Symbol, String, Tuple{Symbol, Symbol}, NamedTuple{(:class, :htmlsourceindent), Tuple{String, String}}})
+│     @ Genie.Renderer.Html .\none:2
+│  [18] (::Main.App.var"#37#50"{Main.App.var"##Main.App_ReactiveModel!#331"})()
+│     @ Main.App C:\Users\awwojtas\AppData\Local\Temp\jl_genie_build_FPcnYl\GenieViews\ec53ed69dbb26f5e0b8ec98fbcc9a3e71eab6538.jl:52
+│  [19] #invokelatest#2
+│     @ .\essentials.jl:729 [inlined]
+│  [20] invokelatest
+│     @ .\essentials.jl:726 [inlined]
+│  [21] normal_element(f::Function, elem::String, args::Vector{Any}, attrs::Vector{Pair{Symbol, Any}})
+│     @ Genie.Renderer.Html C:\Users\awwojtas\.julia\packages\Genie\UTv5H\src\renderers\Html.jl:137
+│  [22] #body#83
+│     @ .\none:2 [inlined]
+│  [23] (::Main.App.var"#33#46"{Main.App.var"##Main.App_ReactiveModel!#331"})()
+│     @ Main.App C:\Users\awwojtas\AppData\Local\Temp\jl_genie_build_FPcnYl\GenieViews\ec53ed69dbb26f5e0b8ec98fbcc9a3e71eab6538.jl:9
+│  [24] #invokelatest#2
+│     @ .\essentials.jl:729 [inlined]
+│  [25] invokelatest
+│     @ .\essentials.jl:726 [inlined]
+│  [26] normal_element(f::Function, elem::String, args::Vector{Any}, attrs::Vector{Pair{Symbol, Any}})
+│     @ Genie.Renderer.Html C:\Users\awwojtas\.julia\packages\Genie\UTv5H\src\renderers\Html.jl:137
+│  [27] #html#71
+│     @ .\none:2 [inlined]
+│  [28] func_9e17702de869ea43b9350e2b8a2cf5600f42b500(; context::Module, model::Main.App.var"##Main.App_ReactiveModel!#331")
+│     @ Main.App C:\Users\awwojtas\AppData\Local\Temp\jl_genie_build_FPcnYl\GenieViews\ec53ed69dbb26f5e0b8ec98fbcc9a3e71eab6538.jl:5
+│  [29] func_9e17702de869ea43b9350e2b8a2cf5600f42b500()
+│     @ Main.App C:\Users\awwojtas\AppData\Local\Temp\jl_genie_build_FPcnYl\GenieViews\ec53ed69dbb26f5e0b8ec98fbcc9a3e71eab6538.jl:3
+│  [30] #invokelatest#2
+│     @ .\essentials.jl:729 [inlined]
+│  [31] invokelatest
+│     @ .\essentials.jl:726 [inlined]
+│  [32] WebRenderable(::Function)
+│     @ Genie.Renderer C:\Users\awwojtas\.julia\packages\Genie\UTv5H\src\Renderer.jl:163
+│  [33] |>
+│     @ .\operators.jl:911 [inlined]
+│  [34] render(::Type{MIME{Symbol("text/html")}}, viewfile::FilePathsBase.WindowsPath; layout::String, context::Module, vars::Base.Pairs{Symbol, Main.App.var"##Main.App_ReactiveModel!#331", Tuple{Symbol}, NamedTuple{(:model,), Tuple{Main.App.var"##Main.App_ReactiveModel!#331"}}})
+│     @ Genie.Renderer.Html C:\Users\awwojtas\.julia\packages\Genie\UTv5H\src\renderers\Html.jl:486
+│  [35] #html#37
+│     @ C:\Users\awwojtas\.julia\packages\Genie\UTv5H\src\renderers\Html.jl:642 [inlined]
+│  [36] (::Stipple.Pages.var"#5#6"{FilePathsBase.WindowsPath, Stipple.ReactiveTools.var"#32#34"{Module, Vector{Any}}, String, Base.Pairs{Symbol, Union{}, Tuple{}, NamedTuple{(), Tuple{}}}})()
+│     @ Stipple.Pages C:\Users\awwojtas\.julia\packages\Stipple\nxNDc\src\Pages.jl:68
+│  [37] run_route(r::Genie.Router.Route)
+│     @ Genie.Router C:\Users\awwojtas\.julia\packages\Genie\UTv5H\src\Router.jl:537
+│  [38] route_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Router C:\Users\awwojtas\.julia\packages\Genie\UTv5H\src\Router.jl:173
+│  [39] handle_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server C:\Users\awwojtas\.julia\packages\Genie\UTv5H\src\Server.jl:283
+│  [40] (::Genie.Server.var"#35#36"{HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}}, HTTP.Messages.Request, HTTP.Messages.Response})()
+│     @ Genie.Server C:\Users\awwojtas\AppData\Local\Programs\Julia-1.8.5\share\julia\stdlib\v1.8\Distributed\src\macros.jl:123
+│  [41] #invokelatest#2
+│     @ .\essentials.jl:729 [inlined]
+│  [42] invokelatest
+│     @ .\essentials.jl:726 [inlined]
+│  [43] #153
+│     @ C:\Users\awwojtas\AppData\Local\Programs\Julia-1.8.5\share\julia\stdlib\v1.8\Distributed\src\remotecall.jl:425 [inlined]
+│  [44] run_work_thunk(thunk::Distributed.var"#153#154"{Genie.Server.var"#35#36"{HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}}, HTTP.Messages.Request, HTTP.Messages.Response}, Tuple{}, Base.Pairs{Symbol, Union{}, Tuple{}, NamedTuple{(), Tuple{}}}}, print_error::Bool)
+│     @ Distributed C:\Users\awwojtas\AppData\Local\Programs\Julia-1.8.5\share\julia\stdlib\v1.8\Distributed\src\process_messages.jl:70
+│  [45] #remotecall_fetch#158
+│     @ C:\Users\awwojtas\AppData\Local\Programs\Julia-1.8.5\share\julia\stdlib\v1.8\Distributed\src\remotecall.jl:450 [inlined]
+│  [46] remotecall_fetch
+│     @ C:\Users\awwojtas\AppData\Local\Programs\Julia-1.8.5\share\julia\stdlib\v1.8\Distributed\src\remotecall.jl:449 [inlined]
+│  [47] #remotecall_fetch#162
+│     @ C:\Users\awwojtas\AppData\Local\Programs\Julia-1.8.5\share\julia\stdlib\v1.8\Distributed\src\remotecall.jl:492 [inlined]
+│  [48] remotecall_fetch
+│     @ C:\Users\awwojtas\AppData\Local\Programs\Julia-1.8.5\share\julia\stdlib\v1.8\Distributed\src\remotecall.jl:492 [inlined]
+│  [49] setup_http_listener(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server C:\Users\awwojtas\.julia\packages\Genie\UTv5H\src\Server.jl:327
+│  [50] (::Genie.Server.var"#32#33"{typeof(Genie.Server.setup_http_listener)})(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server C:\Users\awwojtas\.julia\packages\Genie\UTv5H\src\Server.jl:296
+│  [51] setup_http_streamer(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server C:\Users\awwojtas\.julia\packages\Genie\UTv5H\src\Server.jl:316
+│  [52] (::Genie.Server.var"#7#15")(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server C:\Users\awwojtas\.julia\packages\Genie\UTv5H\src\Server.jl:123
+│  [53] #invokelatest#2
+│     @ .\essentials.jl:729 [inlined]
+│  [54] invokelatest
+│     @ .\essentials.jl:726 [inlined]
+│  [55] handle_connection(f::Function, c::HTTP.Connections.Connection{Sockets.TCPSocket}, listener::HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, readtimeout::Int64, access_log::Nothing)
+│     @ HTTP.Servers C:\Users\awwojtas\.julia\packages\HTTP\SN7VW\src\Servers.jl:450
+│ 
+└ @ Genie.Server C:\Users\awwojtas\.julia\packages\Genie\UTv5H\src\Server.jl:339
+┌ Info: 2023-12-04 14:10:33 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-12-04 14:11:44 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-12-04 14:12:05 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-12-04 14:12:16 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-12-04 14:13:16 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-12-04 14:13:56 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-12-04 14:14:07 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-12-04 14:14:14 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-12-04 14:14:54 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Error: 2023-12-04 14:14:54 LoadError: syntax: missing separator in array expression
+│ Stacktrace:
+│   [1] top-level scope
+│     @ C:\Users\awwojtas\AppData\Local\Temp\jl_genie_build_FPcnYl\GenieViews\0dc5da90ea465674873897cd99a5ba8046814734.jl:15
+│   [2] include
+│     @ .\Base.jl:419 [inlined]
+│   [3] get_template(path::String; partial::Bool, context::Module, vars::Base.Pairs{Symbol, Main.App.var"##Main.App_ReactiveModel!#331", Tuple{Symbol}, NamedTuple{(:model,), Tuple{Main.App.var"##Main.App_ReactiveModel!#331"}}})
+│     @ Genie.Renderer.Html C:\Users\awwojtas\.julia\packages\Genie\UTv5H\src\renderers\Html.jl:360
+│   [4] render(viewfile::FilePathsBase.WindowsPath; layout::String, context::Module, vars::Base.Pairs{Symbol, Main.App.var"##Main.App_ReactiveModel!#331", Tuple{Symbol}, NamedTuple{(:model,), Tuple{Main.App.var"##Main.App_ReactiveModel!#331"}}})
+│     @ Genie.Renderer.Html C:\Users\awwojtas\.julia\packages\Genie\UTv5H\src\renderers\Html.jl:438
+│   [5] render(::Type{MIME{Symbol("text/html")}}, viewfile::FilePathsBase.WindowsPath; layout::String, context::Module, vars::Base.Pairs{Symbol, Main.App.var"##Main.App_ReactiveModel!#331", Tuple{Symbol}, NamedTuple{(:model,), Tuple{Main.App.var"##Main.App_ReactiveModel!#331"}}})
+│     @ Genie.Renderer.Html C:\Users\awwojtas\.julia\packages\Genie\UTv5H\src\renderers\Html.jl:486
+│   [6] #html#37
+│     @ C:\Users\awwojtas\.julia\packages\Genie\UTv5H\src\renderers\Html.jl:642 [inlined]
+│   [7] (::Stipple.Pages.var"#5#6"{FilePathsBase.WindowsPath, Stipple.ReactiveTools.var"#32#34"{Module, Vector{Any}}, String, Base.Pairs{Symbol, Union{}, Tuple{}, NamedTuple{(), Tuple{}}}})()
+│     @ Stipple.Pages C:\Users\awwojtas\.julia\packages\Stipple\nxNDc\src\Pages.jl:68
+│   [8] run_route(r::Genie.Router.Route)
+│     @ Genie.Router C:\Users\awwojtas\.julia\packages\Genie\UTv5H\src\Router.jl:537
+│   [9] route_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Router C:\Users\awwojtas\.julia\packages\Genie\UTv5H\src\Router.jl:173
+│  [10] handle_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server C:\Users\awwojtas\.julia\packages\Genie\UTv5H\src\Server.jl:283
+│  [11] (::Genie.Server.var"#35#36"{HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}}, HTTP.Messages.Request, HTTP.Messages.Response})()
+│     @ Genie.Server C:\Users\awwojtas\AppData\Local\Programs\Julia-1.8.5\share\julia\stdlib\v1.8\Distributed\src\macros.jl:123
+│  [12] #invokelatest#2
+│     @ .\essentials.jl:729 [inlined]
+│  [13] invokelatest
+│     @ .\essentials.jl:726 [inlined]
+│  [14] #153
+│     @ C:\Users\awwojtas\AppData\Local\Programs\Julia-1.8.5\share\julia\stdlib\v1.8\Distributed\src\remotecall.jl:425 [inlined]
+│  [15] run_work_thunk(thunk::Distributed.var"#153#154"{Genie.Server.var"#35#36"{HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}}, HTTP.Messages.Request, HTTP.Messages.Response}, Tuple{}, Base.Pairs{Symbol, Union{}, Tuple{}, NamedTuple{(), Tuple{}}}}, print_error::Bool)
+│     @ Distributed C:\Users\awwojtas\AppData\Local\Programs\Julia-1.8.5\share\julia\stdlib\v1.8\Distributed\src\process_messages.jl:70
+│  [16] #remotecall_fetch#158
+│     @ C:\Users\awwojtas\AppData\Local\Programs\Julia-1.8.5\share\julia\stdlib\v1.8\Distributed\src\remotecall.jl:450 [inlined]
+│  [17] remotecall_fetch
+│     @ C:\Users\awwojtas\AppData\Local\Programs\Julia-1.8.5\share\julia\stdlib\v1.8\Distributed\src\remotecall.jl:449 [inlined]
+│  [18] #remotecall_fetch#162
+│     @ C:\Users\awwojtas\AppData\Local\Programs\Julia-1.8.5\share\julia\stdlib\v1.8\Distributed\src\remotecall.jl:492 [inlined]
+│  [19] remotecall_fetch
+│     @ C:\Users\awwojtas\AppData\Local\Programs\Julia-1.8.5\share\julia\stdlib\v1.8\Distributed\src\remotecall.jl:492 [inlined]
+│  [20] setup_http_listener(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server C:\Users\awwojtas\.julia\packages\Genie\UTv5H\src\Server.jl:327
+│  [21] (::Genie.Server.var"#32#33"{typeof(Genie.Server.setup_http_listener)})(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server C:\Users\awwojtas\.julia\packages\Genie\UTv5H\src\Server.jl:296
+│  [22] setup_http_streamer(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server C:\Users\awwojtas\.julia\packages\Genie\UTv5H\src\Server.jl:316
+│  [23] (::Genie.Server.var"#7#15")(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server C:\Users\awwojtas\.julia\packages\Genie\UTv5H\src\Server.jl:123
+│  [24] #invokelatest#2
+│     @ .\essentials.jl:729 [inlined]
+│  [25] invokelatest
+│     @ .\essentials.jl:726 [inlined]
+│  [26] handle_connection(f::Function, c::HTTP.Connections.Connection{Sockets.TCPSocket}, listener::HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, readtimeout::Int64, access_log::Nothing)
+│     @ HTTP.Servers C:\Users\awwojtas\.julia\packages\HTTP\SN7VW\src\Servers.jl:450
+│  [27] (::HTTP.Servers.var"#16#17"{Genie.Server.var"#7#15", HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, Set{HTTP.Connections.Connection}, Int64, Nothing, Base.Semaphore, HTTP.Connections.Connection{Sockets.TCPSocket}})()
+│     @ HTTP.Servers .\task.jl:484
+│ in expression starting at C:\Users\awwojtas\AppData\Local\Temp\jl_genie_build_FPcnYl\GenieViews\0dc5da90ea465674873897cd99a5ba8046814734.jl:15
+│ 
+└ @ Genie.Server C:\Users\awwojtas\.julia\packages\Genie\UTv5H\src\Server.jl:339
+┌ Info: 2023-12-04 14:14:59 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-12-04 14:18:46 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-12-04 14:19:11 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-12-04 14:19:49 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-12-04 14:20:21 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-12-04 14:20:46 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-12-04 14:21:18 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-12-04 14:21:42 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-12-04 14:28:01 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers C:\Users\awwojtas\.julia\packages\HTTP\SN7VW\src\Servers.jl:394

@@ -1,0 +1,23 @@
+┌ Info: 2023-12-07 06:48:39 Watching ["C:\\Users\\awwojtas\\Desktop\\mena_app"]
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:19
+┌ Info: 2023-12-07 06:49:05 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server C:\Users\awwojtas\.julia\packages\Genie\UTv5H\src\Server.jl:166
+┌ Info: 2023-12-07 06:49:06 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers C:\Users\awwojtas\.julia\packages\HTTP\bDoga\src\Servers.jl:367
+┌ Info: 2023-12-07 06:50:27 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Warning: 2023-12-07 06:50:44 MethodError(isless, (0, "56%"), 0x0000000000007fc2)
+└ @ Stipple C:\Users\awwojtas\.julia\packages\Stipple\nxNDc\src\Stipple.jl:868
+┌ Info: 2023-12-07 06:53:02 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-12-07 06:53:24 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-12-07 06:55:35 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-12-07 06:58:24 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22
+┌ Info: 2023-12-07 06:58:41 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers C:\Users\awwojtas\.julia\packages\HTTP\bDoga\src\Servers.jl:394
+┌ Info: 2023-12-07 08:13:35 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:22

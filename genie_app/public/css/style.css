@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Arimo&display=swap');
+
+*{font-family: "Arimo";}
+
+h1.st-header__title.text-h3{
+    font-family:"Arimo";
+    font-size: 15px;
+}
+
+.q-table th.sortable{font-family: "Arimo";}
+.q-table tr th th.sortable .text-left sortable{font-family: "Arimo";}
+
