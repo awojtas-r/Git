@@ -45,3 +45,16 @@
 └ @ HTTP.Servers C:\Users\awwojtas\.julia\packages\HTTP\bDoga\src\Servers.jl:367
 ┌ Info: 2023-12-08 08:18:51 Server on 127.0.0.1:8000 closing
 └ @ HTTP.Servers C:\Users\awwojtas\.julia\packages\HTTP\bDoga\src\Servers.jl:394
+┌ Info: 2023-12-08 14:12:28 Watching ["C:\\Users\\awwojtas\\Desktop\\Git\\genie_app"]
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:19
+┌ Info: 2023-12-08 14:12:30 Watching ["C:\\Users\\awwojtas\\Desktop\\Git\\genie_app"]
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:19
+┌ Info: 2023-12-08 14:13:12 Watching ["C:\\Users\\awwojtas\\Desktop\\Git\\genie_app"]
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:19
+┌ Info: 2023-12-08 14:13:20 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server C:\Users\awwojtas\.julia\packages\Genie\wkkDc\src\Server.jl:166
+┌ Info: 2023-12-08 14:13:21 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers C:\Users\awwojtas\.julia\packages\HTTP\bDoga\src\Servers.jl:367
+┌ Info: 2023-12-08 14:17:28 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers C:\Users\awwojtas\.julia\packages\HTTP\bDoga\src\Servers.jl:394

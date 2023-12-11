@@ -1,0 +1,44 @@
+┌ Info: 2023-12-11 08:21:17 Watching ["C:\\Users\\awwojtas\\Desktop\\Git\\genie_app"]
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:19
+┌ Info: 2023-12-11 08:21:19 Watching ["C:\\Users\\awwojtas\\Desktop\\Git\\genie_app"]
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:19
+┌ Info: 2023-12-11 08:21:59 Watching ["C:\\Users\\awwojtas\\Desktop\\Git\\genie_app"]
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\IuBCb\src\GenieAutoReload.jl:19
+┌ Info: 2023-12-11 08:22:04 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server C:\Users\awwojtas\.julia\packages\Genie\wkkDc\src\Server.jl:166
+┌ Info: 2023-12-11 08:22:04 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers C:\Users\awwojtas\.julia\packages\HTTP\bDoga\src\Servers.jl:367
+┌ Info: 2023-12-11 08:41:43 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers C:\Users\awwojtas\.julia\packages\HTTP\bDoga\src\Servers.jl:394
+┌ Warning: 2023-12-11 08:42:31 C:\Users\awwojtas\.julia\packages\Stipple\TytHs\src\Stipple.jl__@require__ no longer exists, deleted all methods
+└ @ Revise C:\Users\awwojtas\.julia\packages\Revise\xRltd\src\packagedef.jl:667
+┌ Error: 2023-12-11 08:42:43 Failed to revise C:\Users\awwojtas\.julia\packages\Stipple\TytHs\src\Stipple.jl__@require__
+│   exception = (ErrorException("file src\\Stipple.jl__@require__ not found"), Union{Ptr{Nothing}, Base.InterpreterIP}[Ptr{Nothing} @0x00007ffd307c0563, Ptr{Nothing} @0x0000020529ae9f85])
+└ @ Revise C:\Users\awwojtas\.julia\packages\Revise\xRltd\src\packagedef.jl:725
+┌ Error: 2023-12-11 08:42:44 Failed to revise C:\Users\awwojtas\.julia\packages\PrettyTables\E8rPJ\src\backends\text\types.jl
+│   exception = Revise.ReviseEvalException("C:\\Users\\awwojtas\\Desktop\\Git\\genie_app\\util.jl:515", ErrorException("invalid redefinition of constant Display"), Any[(top-level scope at util.jl:515, 1)])
+└ @ Revise C:\Users\awwojtas\.julia\packages\Revise\xRltd\src\packagedef.jl:723
+┌ Warning: 2023-12-11 08:42:45 The running code does not match the saved version for the following files:
+│ 
+│   C:\Users\awwojtas\.julia\packages\PrettyTables\E8rPJ\src\backends\text\types.jl
+│   C:\Users\awwojtas\.julia\packages\Stipple\TytHs\src\Stipple.jl__@require__
+│ 
+│ If the error was due to evaluation order, it can sometimes be resolved by calling `Revise.retry()`.
+│ Use Revise.errors() to report errors again. Only the first error in each file is shown.
+│ Your prompt color may be yellow until the errors are resolved.
+└ @ Revise C:\Users\awwojtas\.julia\packages\Revise\xRltd\src\packagedef.jl:833
+┌ Error: 2023-12-11 08:42:45 ArgumentError("send() requires `!(ws.writeclosed)`")
+└ @ Genie.WebChannels C:\Users\awwojtas\.julia\packages\Genie\wkkDc\src\WebChannels.jl:245
+┌ Error: 2023-12-11 08:42:45 ArgumentError("send() requires `!(ws.writeclosed)`")
+└ @ Genie.WebChannels C:\Users\awwojtas\.julia\packages\Genie\wkkDc\src\WebChannels.jl:245
+┌ Error: 2023-12-11 08:42:45 ArgumentError("send() requires `!(ws.writeclosed)`")
+└ @ Genie.WebChannels C:\Users\awwojtas\.julia\packages\Genie\wkkDc\src\WebChannels.jl:245
+┌ Error: 2023-12-11 08:42:45 ArgumentError("send() requires `!(ws.writeclosed)`")
+└ @ Genie.WebChannels C:\Users\awwojtas\.julia\packages\Genie\wkkDc\src\WebChannels.jl:245
+┌ Error: 2023-12-11 08:42:45 ArgumentError("send() requires `!(ws.writeclosed)`")
+└ @ Genie.WebChannels C:\Users\awwojtas\.julia\packages\Genie\wkkDc\src\WebChannels.jl:245
+┌ Error: 2023-12-11 08:42:45 ArgumentError("send() requires `!(ws.writeclosed)`")
+└ @ Genie.WebChannels C:\Users\awwojtas\.julia\packages\Genie\wkkDc\src\WebChannels.jl:245
+┌ Info: 2023-12-11 08:44:07 We haven't cleaned this depot up for a bit, running Pkg.gc()...
+└ @ Pkg C:\workdir\usr\share\julia\stdlib\v1.8\Pkg\src\Pkg.jl:719
