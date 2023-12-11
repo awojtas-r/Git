@@ -42,3 +42,69 @@
 └ @ Genie.WebChannels C:\Users\awwojtas\.julia\packages\Genie\wkkDc\src\WebChannels.jl:245
 ┌ Info: 2023-12-11 08:44:07 We haven't cleaned this depot up for a bit, running Pkg.gc()...
 └ @ Pkg C:\workdir\usr\share\julia\stdlib\v1.8\Pkg\src\Pkg.jl:719
+┌ Info: 2023-12-11 08:48:08 Loading GenieTools
+└ @ Main.App.eda C:\Users\awwojtas\.julia\packages\GenieFramework\smPak\src\GenieFramework.jl:115
+┌ Info: 2023-12-11 08:48:10 Watching ["C:\\Users\\awwojtas\\Desktop\\Git\\genie_app"]
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\gUou8\src\GenieAutoReload.jl:19
+┌ Info: 2023-12-11 08:48:29 Watching ["C:\\Users\\awwojtas\\Desktop\\Git\\genie_app"]
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\gUou8\src\GenieAutoReload.jl:19
+┌ Info: 2023-12-11 08:48:29 Loading GenieTools
+└ @ Main.App.vis C:\Users\awwojtas\.julia\packages\GenieFramework\smPak\src\GenieFramework.jl:115
+┌ Info: 2023-12-11 08:48:50 Watching ["C:\\Users\\awwojtas\\Desktop\\Git\\genie_app"]
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\gUou8\src\GenieAutoReload.jl:19
+┌ Info: 2023-12-11 08:48:50 Watching ["C:\\Users\\awwojtas\\Desktop\\Git\\genie_app"]
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\gUou8\src\GenieAutoReload.jl:19
+┌ Info: 2023-12-11 08:48:56 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server C:\Users\awwojtas\.julia\packages\Genie\wkkDc\src\Server.jl:166
+┌ Info: 2023-12-11 08:48:57 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers C:\Users\awwojtas\.julia\packages\HTTP\bDoga\src\Servers.jl:367
+┌ Info: 2023-12-11 08:51:57 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\gUou8\src\GenieAutoReload.jl:22
+┌ Warning: 2023-12-11 08:51:57 Genie.WebChannels.ChannelNotFoundException("autoreload")
+└ @ Genie.WebChannels C:\Users\awwojtas\.julia\packages\Genie\wkkDc\src\WebChannels.jl:251
+┌ Info: 2023-12-11 08:52:08 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\gUou8\src\GenieAutoReload.jl:22
+┌ Warning: 2023-12-11 08:52:08 Genie.WebChannels.ChannelNotFoundException("autoreload")
+└ @ Genie.WebChannels C:\Users\awwojtas\.julia\packages\Genie\wkkDc\src\WebChannels.jl:251
+┌ Info: 2023-12-11 08:52:35 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\gUou8\src\GenieAutoReload.jl:22
+┌ Info: 2023-12-11 08:52:48 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers C:\Users\awwojtas\.julia\packages\HTTP\bDoga\src\Servers.jl:394
+┌ Info: 2023-12-11 08:52:56 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server C:\Users\awwojtas\.julia\packages\Genie\wkkDc\src\Server.jl:166
+┌ Info: 2023-12-11 08:52:56 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers C:\Users\awwojtas\.julia\packages\HTTP\bDoga\src\Servers.jl:367
+┌ Info: 2023-12-11 08:53:12 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers C:\Users\awwojtas\.julia\packages\HTTP\bDoga\src\Servers.jl:394
+┌ Info: 2023-12-11 08:55:01 Watching ["C:\\Users\\awwojtas\\Desktop\\Git\\genie_app"]
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\gUou8\src\GenieAutoReload.jl:19
+┌ Info: 2023-12-11 08:55:01 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\gUou8\src\GenieAutoReload.jl:22
+┌ Info: 2023-12-11 08:55:09 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server C:\Users\awwojtas\.julia\packages\Genie\wkkDc\src\Server.jl:166
+┌ Info: 2023-12-11 08:55:09 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers C:\Users\awwojtas\.julia\packages\HTTP\bDoga\src\Servers.jl:367
+┌ Info: 2023-12-11 08:55:17 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers C:\Users\awwojtas\.julia\packages\HTTP\bDoga\src\Servers.jl:394
+┌ Info: 2023-12-11 08:56:58 Loading GenieTools
+└ @ Main.App.eda C:\Users\awwojtas\.julia\packages\GenieFramework\smPak\src\GenieFramework.jl:115
+┌ Info: 2023-12-11 08:57:00 Watching ["C:\\Users\\awwojtas\\Desktop\\Git\\genie_app"]
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\gUou8\src\GenieAutoReload.jl:19
+┌ Info: 2023-12-11 08:57:18 Watching ["C:\\Users\\awwojtas\\Desktop\\Git\\genie_app"]
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\gUou8\src\GenieAutoReload.jl:19
+┌ Info: 2023-12-11 08:57:18 Loading GenieTools
+└ @ Main.App.vis C:\Users\awwojtas\.julia\packages\GenieFramework\smPak\src\GenieFramework.jl:115
+┌ Info: 2023-12-11 08:57:36 Watching ["C:\\Users\\awwojtas\\Desktop\\Git\\genie_app"]
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\gUou8\src\GenieAutoReload.jl:19
+┌ Info: 2023-12-11 08:57:36 Watching ["C:\\Users\\awwojtas\\Desktop\\Git\\genie_app"]
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\gUou8\src\GenieAutoReload.jl:19
+┌ Info: 2023-12-11 08:57:41 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server C:\Users\awwojtas\.julia\packages\Genie\wkkDc\src\Server.jl:166
+┌ Info: 2023-12-11 08:57:41 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers C:\Users\awwojtas\.julia\packages\HTTP\bDoga\src\Servers.jl:367
+┌ Info: 2023-12-11 08:59:32 Watching ["C:\\Users\\awwojtas\\Desktop\\Git\\genie_app"]
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\gUou8\src\GenieAutoReload.jl:19

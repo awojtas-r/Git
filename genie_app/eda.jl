@@ -2,13 +2,14 @@ module eda
 using GenieFramework, DataFrames, CSV, TidierData, Format, ZipFile, XLSX, HTTP, Statistics
 @genietools
 
-url = HTTP.get("https://maven-datasets.s3.amazonaws.com/Coffee+Shop+Sales/Coffee+Shop+Sales.zip")
-data = ZipFile.Reader(IOBuffer(url.body))
-myf=data.files[1]
-out =  open(myf.name,"w")
-write(out,myf)
-close(out)
-close(data)
+# url = HTTP.get("https://maven-datasets.s3.amazonaws.com/Coffee+Shop+Sales/Coffee+Shop+Sales.zip")
+# data = ZipFile.Reader(IOBuffer(url.body))
+# myf=data.files[1]
+# out =  open(myf.name,"w")
+# write(out,myf)
+# close(out)
+# close(data)
+# const data_frame = DataFrame(XLSX.readtable("Coffee Shop Sales.xlsx", "Transactions"))
 const data_frame = DataFrame(XLSX.readtable("Coffee Shop Sales.xlsx", "Transactions"))
 location = unique(data_frame.store_location)
 category = unique(data_frame.product_category)
