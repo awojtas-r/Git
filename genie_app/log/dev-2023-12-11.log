@@ -108,3 +108,17 @@
 └ @ HTTP.Servers C:\Users\awwojtas\.julia\packages\HTTP\bDoga\src\Servers.jl:367
 ┌ Info: 2023-12-11 08:59:32 Watching ["C:\\Users\\awwojtas\\Desktop\\Git\\genie_app"]
 └ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\gUou8\src\GenieAutoReload.jl:19
+┌ Info: 2023-12-11 08:59:32 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\gUou8\src\GenieAutoReload.jl:22
+┌ Warning: 2023-12-11 08:59:32 Genie.WebChannels.ChannelNotFoundException("autoreload")
+└ @ Genie.WebChannels C:\Users\awwojtas\.julia\packages\Genie\wkkDc\src\WebChannels.jl:251
+┌ Info: 2023-12-11 08:59:42 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\gUou8\src\GenieAutoReload.jl:22
+┌ Warning: 2023-12-11 08:59:42 Genie.WebChannels.ChannelNotFoundException("autoreload")
+└ @ Genie.WebChannels C:\Users\awwojtas\.julia\packages\Genie\wkkDc\src\WebChannels.jl:251
+┌ Info: 2023-12-11 08:59:52 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\gUou8\src\GenieAutoReload.jl:22
+┌ Warning: 2023-12-11 08:59:52 Genie.WebChannels.ChannelNotFoundException("autoreload")
+└ @ Genie.WebChannels C:\Users\awwojtas\.julia\packages\Genie\wkkDc\src\WebChannels.jl:251
+┌ Info: 2023-12-11 09:00:35 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers C:\Users\awwojtas\.julia\packages\HTTP\bDoga\src\Servers.jl:394
