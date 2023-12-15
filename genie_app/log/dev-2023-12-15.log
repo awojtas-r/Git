@@ -1,0 +1,27 @@
+┌ Info: 2023-12-15 09:46:10 Loading GenieTools
+└ @ Main.App.eda C:\Users\awwojtas\.julia\packages\GenieFramework\smPak\src\GenieFramework.jl:115
+┌ Info: 2023-12-15 09:46:12 Watching ["C:\\Users\\awwojtas\\Desktop\\Git\\genie_app"]
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\gUou8\src\GenieAutoReload.jl:19
+┌ Info: 2023-12-15 09:46:33 Watching ["C:\\Users\\awwojtas\\Desktop\\Git\\genie_app"]
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\gUou8\src\GenieAutoReload.jl:19
+┌ Info: 2023-12-15 09:46:33 Loading GenieTools
+└ @ Main.App.vis C:\Users\awwojtas\.julia\packages\GenieFramework\smPak\src\GenieFramework.jl:115
+┌ Info: 2023-12-15 09:46:56 Watching ["C:\\Users\\awwojtas\\Desktop\\Git\\genie_app"]
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\gUou8\src\GenieAutoReload.jl:19
+┌ Info: 2023-12-15 09:46:56 Watching ["C:\\Users\\awwojtas\\Desktop\\Git\\genie_app"]
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\gUou8\src\GenieAutoReload.jl:19
+┌ Info: 2023-12-15 09:47:02 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server C:\Users\awwojtas\.julia\packages\Genie\wkkDc\src\Server.jl:166
+┌ Info: 2023-12-15 09:47:03 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers C:\Users\awwojtas\.julia\packages\HTTP\bDoga\src\Servers.jl:367
+┌ Info: 2023-12-15 11:25:10 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\gUou8\src\GenieAutoReload.jl:22
+┌ Warning: 2023-12-15 11:25:11 Genie.WebChannels.ChannelNotFoundException("autoreload")
+└ @ Genie.WebChannels C:\Users\awwojtas\.julia\packages\Genie\wkkDc\src\WebChannels.jl:251
+┌ Info: 2023-12-15 11:25:44 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\gUou8\src\GenieAutoReload.jl:22
+┌ Warning: 2023-12-15 11:25:44 Genie.WebChannels.ChannelNotFoundException("autoreload")
+└ @ Genie.WebChannels C:\Users\awwojtas\.julia\packages\Genie\wkkDc\src\WebChannels.jl:251
+┌ Info: 2023-12-15 11:54:19 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers C:\Users\awwojtas\.julia\packages\HTTP\bDoga\src\Servers.jl:394

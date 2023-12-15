@@ -1,0 +1,17 @@
+┌ Info: 2023-12-13 13:23:54 Loading GenieTools
+└ @ Main.App.eda C:\Users\awwojtas\.julia\packages\GenieFramework\smPak\src\GenieFramework.jl:115
+┌ Info: 2023-12-13 13:23:55 Watching ["C:\\Users\\awwojtas\\Desktop\\Git\\genie_app"]
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\gUou8\src\GenieAutoReload.jl:19
+┌ Info: 2023-12-13 13:24:13 Watching ["C:\\Users\\awwojtas\\Desktop\\Git\\genie_app"]
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\gUou8\src\GenieAutoReload.jl:19
+┌ Info: 2023-12-13 13:24:13 Loading GenieTools
+└ @ Main.App.vis C:\Users\awwojtas\.julia\packages\GenieFramework\smPak\src\GenieFramework.jl:115
+┌ Info: 2023-12-13 13:24:32 Watching ["C:\\Users\\awwojtas\\Desktop\\Git\\genie_app"]
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\gUou8\src\GenieAutoReload.jl:19
+┌ Info: 2023-12-13 13:24:32 Watching ["C:\\Users\\awwojtas\\Desktop\\Git\\genie_app"]
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\gUou8\src\GenieAutoReload.jl:19
+┌ Info: 2023-12-13 13:24:38 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server C:\Users\awwojtas\.julia\packages\Genie\wkkDc\src\Server.jl:166
+┌ Info: 2023-12-13 13:24:39 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers C:\Users\awwojtas\.julia\packages\HTTP\bDoga\src\Servers.jl:367
