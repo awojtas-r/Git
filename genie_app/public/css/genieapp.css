@@ -10,3 +10,14 @@ h1.st-header__title.text-h3{
 .q-table th.sortable{font-family: "Arimo";}
 .q-table tr th th.sortable .text-left sortable{font-family: "Arimo";}
 
+/* This won't work because Stipple styles override the font-family */
+/* .stipple-core .st-big-number .q-badge{ */
+/*     font-family:"Arimo"; */
+/*     font-size: 15px; */
+/* } */
+
+/* Need to specify a more restrictive selector that takes precedence */
+#num .q-badge{
+    font-family:"Arimo";
+    font-size: 15px;
+}

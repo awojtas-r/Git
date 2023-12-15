@@ -9,16 +9,16 @@ container([
         cell(class="st-module", style = "padding: 0px;", [
           row([
             cell(class="st-br", [ 
-              bignumber("Min transaction value", :first_bn, arrow=:first_arr, color=:first_col)
+              bignumber("Min transaction value", :first_bn, id="num", arrow=:first_arr, color=:first_col)
             ])
             cell(class="st-br", [
-              bignumber("Max transaction value", :second_bn, arrow=:second_arr, color=:second_col)
+              bignumber("Max transaction value", :second_bn, id="num", arrow=:second_arr, color=:second_col)
             ])
             cell(class="st-br",  [
-              bignumber("Mean transaction value", :third_bn, arrow=:third_arr, color=:third_col)
+              bignumber("Mean transaction value", :third_bn, id="num", arrow=:third_arr, color=:third_col)
             ])
             cell(class="st-br",  [
-              bignumber("Placeholder", :total_time, arrow="up")
+              bignumber("Placeholder", :total_time, id="num", arrow="up")
             ])
           ])
         ])
