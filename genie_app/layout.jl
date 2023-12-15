@@ -1,3 +1,12 @@
+ #= <head> =#
+ #=    <meta charset="utf-8"> =#
+ #=    $tags =#
+ #=    <% Stipple.sesstoken() %> =#
+ #=    <title>$title</title> =#
+ #=    <% if isfile(joinpath(Genie.config.server_document_root, "css", "genieapp.css")) %> =#
+ #=    <link rel='stylesheet' href='$(Genie.Configuration.basepath())/css/genieapp.css'> =#
+ head(link(rel="stylesheet", href="/css/genieapp.css"))
+
 cell(style="background-color: #263238; padding: 10px 50px; color: #ffffff; top: 0; width: 100%;", [
     cell([ 
     Html.div(style="font-size: 1.5em; font-weight: regular;", [

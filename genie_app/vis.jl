@@ -1,5 +1,5 @@
 module vis
-using GenieFramework, PlotlyBase, StipplePlotly
+using GenieFramework, PlotlyBase
 @genietools
 
 trace1 = scatter(; x=1:4, y=[0, 2, 3, 5], mode = "lines", line=attr(color="blue"))
