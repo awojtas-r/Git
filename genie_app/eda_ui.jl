@@ -44,7 +44,17 @@ container([
         Stipple.table(:dat, dense=false, flat=true, color="primary", bordered=true,
         title = "Main table",
         var"row-key" = "store_location",
-        filter = :TableSearch_dfilter)
+        filter = :TableSearch_dfilter,
+        hideheader = "",
+        template(
+        var"v-slot:top-right" = "",
+        textfield(
+            "",
+            :TableSearch_dfilter,
+            dense = true,
+            debounce = "300",
+            placeholder = "Search",
+            [template(var"v-slot:append" = true, icon("search"))])))
         btn("DOWNLOAD", @click(:dfile), color = "primary", icon = "file_download", iconright=true, size="sm", dense=true, padding="sm", [tooltip("Click to download CSV data")])
         a(id="dynamicLink", var":href"="linkhref")
         ])

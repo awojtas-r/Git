@@ -1,0 +1,12 @@
+┌ Info: 2023-12-18 08:41:06 Loading GenieTools
+└ @ Main.App.eda C:\Users\awwojtas\.julia\packages\GenieFramework\smPak\src\GenieFramework.jl:115
+┌ Info: 2023-12-18 08:41:07 Watching ["C:\\Users\\awwojtas\\Desktop\\Git\\genie_app"]
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\gUou8\src\GenieAutoReload.jl:19
+┌ Info: 2023-12-18 08:41:24 Watching ["C:\\Users\\awwojtas\\Desktop\\Git\\genie_app"]
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\gUou8\src\GenieAutoReload.jl:19
+┌ Info: 2023-12-18 08:41:24 Loading GenieTools
+└ @ Main.App.vis C:\Users\awwojtas\.julia\packages\GenieFramework\smPak\src\GenieFramework.jl:115
+┌ Info: 2023-12-18 08:41:43 Watching ["C:\\Users\\awwojtas\\Desktop\\Git\\genie_app"]
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\gUou8\src\GenieAutoReload.jl:19
+┌ Info: 2023-12-18 08:41:43 Watching ["C:\\Users\\awwojtas\\Desktop\\Git\\genie_app"]
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\gUou8\src\GenieAutoReload.jl:19
