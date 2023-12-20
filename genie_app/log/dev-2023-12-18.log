@@ -10,3 +10,132 @@
 └ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\gUou8\src\GenieAutoReload.jl:19
 ┌ Info: 2023-12-18 08:41:43 Watching ["C:\\Users\\awwojtas\\Desktop\\Git\\genie_app"]
 └ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\gUou8\src\GenieAutoReload.jl:19
+┌ Info: 2023-12-18 08:41:49 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server C:\Users\awwojtas\.julia\packages\Genie\wkkDc\src\Server.jl:166
+┌ Info: 2023-12-18 08:41:50 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers C:\Users\awwojtas\.julia\packages\HTTP\bDoga\src\Servers.jl:367
+┌ Info: 2023-12-18 08:45:47 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\gUou8\src\GenieAutoReload.jl:22
+┌ Warning: 2023-12-18 08:45:47 Genie.WebChannels.ChannelNotFoundException("autoreload")
+└ @ Genie.WebChannels C:\Users\awwojtas\.julia\packages\Genie\wkkDc\src\WebChannels.jl:251
+┌ Info: 2023-12-18 08:47:08 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\gUou8\src\GenieAutoReload.jl:22
+┌ Warning: 2023-12-18 08:47:08 Genie.WebChannels.ChannelNotFoundException("autoreload")
+└ @ Genie.WebChannels C:\Users\awwojtas\.julia\packages\Genie\wkkDc\src\WebChannels.jl:251
+┌ Info: 2023-12-18 08:55:43 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers C:\Users\awwojtas\.julia\packages\HTTP\bDoga\src\Servers.jl:394
+┌ Info: 2023-12-18 08:55:50 Loading GenieTools
+└ @ Main.App C:\Users\awwojtas\.julia\packages\GenieFramework\smPak\src\GenieFramework.jl:115
+┌ Info: 2023-12-18 09:31:03 Loading GenieTools
+└ @ Main.App.eda C:\Users\awwojtas\.julia\packages\GenieFramework\smPak\src\GenieFramework.jl:115
+┌ Info: 2023-12-18 09:31:05 Watching ["C:\\Users\\awwojtas\\Desktop\\Git\\genie_app"]
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\gUou8\src\GenieAutoReload.jl:19
+┌ Info: 2023-12-18 09:31:22 Watching ["C:\\Users\\awwojtas\\Desktop\\Git\\genie_app"]
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\gUou8\src\GenieAutoReload.jl:19
+┌ Info: 2023-12-18 09:31:22 Loading GenieTools
+└ @ Main.App.vis C:\Users\awwojtas\.julia\packages\GenieFramework\smPak\src\GenieFramework.jl:115
+┌ Info: 2023-12-18 09:31:39 Watching ["C:\\Users\\awwojtas\\Desktop\\Git\\genie_app"]
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\gUou8\src\GenieAutoReload.jl:19
+┌ Info: 2023-12-18 09:31:40 Watching ["C:\\Users\\awwojtas\\Desktop\\Git\\genie_app"]
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\gUou8\src\GenieAutoReload.jl:19
+┌ Info: 2023-12-18 09:32:41 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server C:\Users\awwojtas\.julia\packages\Genie\wkkDc\src\Server.jl:166
+┌ Info: 2023-12-18 09:32:42 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers C:\Users\awwojtas\.julia\packages\HTTP\bDoga\src\Servers.jl:367
+┌ Info: 2023-12-18 09:35:08 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\gUou8\src\GenieAutoReload.jl:22
+┌ Warning: 2023-12-18 09:35:08 Genie.WebChannels.ChannelNotFoundException("autoreload")
+└ @ Genie.WebChannels C:\Users\awwojtas\.julia\packages\Genie\wkkDc\src\WebChannels.jl:251
+┌ Info: 2023-12-18 09:35:43 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\gUou8\src\GenieAutoReload.jl:22
+┌ Warning: 2023-12-18 09:35:43 Genie.WebChannels.ChannelNotFoundException("autoreload")
+└ @ Genie.WebChannels C:\Users\awwojtas\.julia\packages\Genie\wkkDc\src\WebChannels.jl:251
+┌ Info: 2023-12-18 09:37:06 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\gUou8\src\GenieAutoReload.jl:22
+┌ Warning: 2023-12-18 09:37:06 Genie.WebChannels.ChannelNotFoundException("autoreload")
+└ @ Genie.WebChannels C:\Users\awwojtas\.julia\packages\Genie\wkkDc\src\WebChannels.jl:251
+┌ Info: 2023-12-18 09:39:00 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\gUou8\src\GenieAutoReload.jl:22
+┌ Warning: 2023-12-18 09:39:00 Genie.WebChannels.ChannelNotFoundException("autoreload")
+└ @ Genie.WebChannels C:\Users\awwojtas\.julia\packages\Genie\wkkDc\src\WebChannels.jl:251
+┌ Info: 2023-12-18 09:43:17 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers C:\Users\awwojtas\.julia\packages\HTTP\bDoga\src\Servers.jl:394
+┌ Info: 2023-12-18 09:46:26 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\gUou8\src\GenieAutoReload.jl:22
+┌ Warning: 2023-12-18 09:46:26 Genie.WebChannels.ChannelNotFoundException("autoreload")
+└ @ Genie.WebChannels C:\Users\awwojtas\.julia\packages\Genie\wkkDc\src\WebChannels.jl:251
+┌ Info: 2023-12-18 09:46:40 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server C:\Users\awwojtas\.julia\packages\Genie\wkkDc\src\Server.jl:166
+┌ Info: 2023-12-18 09:46:40 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers C:\Users\awwojtas\.julia\packages\HTTP\bDoga\src\Servers.jl:367
+┌ Error: 2023-12-18 09:46:44 UndefVarError: menu not defined
+│ Stacktrace:
+│   [1] func_74cd4c0f307b844465ecc83c1c1db0d9a561cc69(; context::Module, model::Main.App.eda.var"##Main.App.eda_ReactiveModel!#318")
+│     @ Main.App.eda C:\Users\awwojtas\AppData\Local\Temp\jl_genie_build_QWmEh2\GenieViews\7bf23681f6c7ae91648b085f8b45d12b5c713bb5.jl:5
+│   [2] func_74cd4c0f307b844465ecc83c1c1db0d9a561cc69()
+│     @ Main.App.eda C:\Users\awwojtas\AppData\Local\Temp\jl_genie_build_QWmEh2\GenieViews\7bf23681f6c7ae91648b085f8b45d12b5c713bb5.jl:3
+│   [3] #invokelatest#2
+│     @ .\essentials.jl:729 [inlined]
+│   [4] invokelatest
+│     @ .\essentials.jl:726 [inlined]
+│   [5] WebRenderable(::Function)
+│     @ Genie.Renderer C:\Users\awwojtas\.julia\packages\Genie\wkkDc\src\Renderer.jl:163
+│   [6] |>
+│     @ .\operators.jl:911 [inlined]
+│   [7] render(::Type{MIME{Symbol("text/html")}}, viewfile::FilePathsBase.WindowsPath; layout::FilePathsBase.WindowsPath, context::Module, vars::Base.Pairs{Symbol, Main.App.eda.var"##Main.App.eda_ReactiveModel!#318", Tuple{Symbol}, NamedTuple{(:model,), Tuple{Main.App.eda.var"##Main.App.eda_ReactiveModel!#318"}}})
+│     @ Genie.Renderer.Html C:\Users\awwojtas\.julia\packages\Genie\wkkDc\src\renderers\Html.jl:486
+│   [8] #html#37
+│     @ C:\Users\awwojtas\.julia\packages\Genie\wkkDc\src\renderers\Html.jl:642 [inlined]
+│   [9] (::Stipple.Pages.var"#5#6"{FilePathsBase.WindowsPath, Main.App.eda.var"##Main.App.eda_ReactiveModel!#318", FilePathsBase.WindowsPath, Base.Pairs{Symbol, Union{}, Tuple{}, NamedTuple{(), Tuple{}}}})()
+│     @ Stipple.Pages C:\Users\awwojtas\.julia\packages\Stipple\TytHs\src\Pages.jl:68
+│  [10] run_route(r::Genie.Router.Route)
+│     @ Genie.Router C:\Users\awwojtas\.julia\packages\Genie\wkkDc\src\Router.jl:537
+│  [11] route_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Router C:\Users\awwojtas\.julia\packages\Genie\wkkDc\src\Router.jl:173
+│  [12] handle_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server C:\Users\awwojtas\.julia\packages\Genie\wkkDc\src\Server.jl:283
+│  [13] (::Genie.Server.var"#35#36"{HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}}, HTTP.Messages.Request, HTTP.Messages.Response})()
+│     @ Genie.Server C:\Users\awwojtas\AppData\Local\Programs\Julia-1.8.5\share\julia\stdlib\v1.8\Distributed\src\macros.jl:123
+│  [14] #invokelatest#2
+│     @ .\essentials.jl:729 [inlined]
+│  [15] invokelatest
+│     @ .\essentials.jl:726 [inlined]
+│  [16] #153
+│     @ C:\Users\awwojtas\AppData\Local\Programs\Julia-1.8.5\share\julia\stdlib\v1.8\Distributed\src\remotecall.jl:425 [inlined]
+│  [17] run_work_thunk(thunk::Distributed.var"#153#154"{Genie.Server.var"#35#36"{HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}}, HTTP.Messages.Request, HTTP.Messages.Response}, Tuple{}, Base.Pairs{Symbol, Union{}, Tuple{}, NamedTuple{(), Tuple{}}}}, print_error::Bool)
+│     @ Distributed C:\Users\awwojtas\AppData\Local\Programs\Julia-1.8.5\share\julia\stdlib\v1.8\Distributed\src\process_messages.jl:70
+│  [18] #remotecall_fetch#158
+│     @ C:\Users\awwojtas\AppData\Local\Programs\Julia-1.8.5\share\julia\stdlib\v1.8\Distributed\src\remotecall.jl:450 [inlined]
+│  [19] remotecall_fetch
+│     @ C:\Users\awwojtas\AppData\Local\Programs\Julia-1.8.5\share\julia\stdlib\v1.8\Distributed\src\remotecall.jl:449 [inlined]
+│  [20] #remotecall_fetch#162
+│     @ C:\Users\awwojtas\AppData\Local\Programs\Julia-1.8.5\share\julia\stdlib\v1.8\Distributed\src\remotecall.jl:492 [inlined]
+│  [21] remotecall_fetch
+│     @ C:\Users\awwojtas\AppData\Local\Programs\Julia-1.8.5\share\julia\stdlib\v1.8\Distributed\src\remotecall.jl:492 [inlined]
+│  [22] setup_http_listener(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server C:\Users\awwojtas\.julia\packages\Genie\wkkDc\src\Server.jl:327
+│  [23] (::Genie.Server.var"#32#33"{typeof(Genie.Server.setup_http_listener)})(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server C:\Users\awwojtas\.julia\packages\Genie\wkkDc\src\Server.jl:296
+│  [24] setup_http_streamer(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server C:\Users\awwojtas\.julia\packages\Genie\wkkDc\src\Server.jl:316
+│  [25] (::Genie.Server.var"#7#15")(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server C:\Users\awwojtas\.julia\packages\Genie\wkkDc\src\Server.jl:123
+│  [26] #invokelatest#2
+│     @ .\essentials.jl:729 [inlined]
+│  [27] invokelatest
+│     @ .\essentials.jl:726 [inlined]
+│  [28] handle_connection(f::Function, c::HTTP.Connections.Connection{Sockets.TCPSocket}, listener::HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, readtimeout::Int64, access_log::Nothing)
+│     @ HTTP.Servers C:\Users\awwojtas\.julia\packages\HTTP\bDoga\src\Servers.jl:450
+│  [29] (::HTTP.Servers.var"#16#17"{Genie.Server.var"#7#15", HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, Set{HTTP.Connections.Connection}, Int64, Nothing, Base.Semaphore, HTTP.Connections.Connection{Sockets.TCPSocket}})()
+│     @ HTTP.Servers .\task.jl:484
+│ 
+└ @ Genie.Server C:\Users\awwojtas\.julia\packages\Genie\wkkDc\src\Server.jl:339
+┌ Info: 2023-12-18 09:49:04 Autoreloading
+└ @ GenieAutoReload C:\Users\awwojtas\.julia\packages\GenieAutoReload\gUou8\src\GenieAutoReload.jl:22
+┌ Info: 2023-12-18 09:52:25 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers C:\Users\awwojtas\.julia\packages\HTTP\bDoga\src\Servers.jl:394
+┌ Info: 2023-12-18 09:52:35 Loading GenieTools
+└ @ Main.App C:\Users\awwojtas\.julia\packages\GenieFramework\smPak\src\GenieFramework.jl:115
